@@ -10,5 +10,11 @@
     "bindings": {
       "alt-`": ["task::Spawn", { "task_name": "go" }]
     }
+  },
+  {
+    "context": "Workspace",
+    "bindings": {
+      "alt-o": "task::Spawn"
+    }
   }
 ]

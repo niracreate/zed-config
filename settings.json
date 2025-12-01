@@ -1,4 +1,8 @@
 {
+  "extend_comment_on_newline": true,
+  "ui_font_family": ".ZedSans",
+  "buffer_font_family": "JetBrainsMono Nerd Font",
+  "vim_mode": false,
   "scrollbar": {
     "git_diff": true
   },
@@ -10,6 +14,7 @@
     "line_numbers": true
   },
   "toolbar": {
+    "breadcrumbs": true,
     "code_actions": false
   },
   "autoscroll_on_clicks": false,
